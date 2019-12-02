@@ -1,0 +1,33 @@
+import scipy.signal as sig
+import numpy as np
+# from layers.conv import ConvLayer
+
+# M = np.array([ [[[1,1,1], [2,2,2], [3,3,3]], [[1,1,1], [2,2,2], [3,3,3]]],[[[1,1,1], [9,9,9], [3,3,3]], [[1,1,1], [7,7,7], [3,3,3]]] ])
+# M_padded = np.pad(M,((0,0),(0,0),(1,1),(1,1)),'constant', constant_values= 0 )
+# conv = ConvLayer(2,3,3)
+# f = conv.forward(M)
+# J = np.ones( (2,3,3,3) )
+# print(J == 1)
+# b = np.sum(J, axis=())
+# print((J == 1).astype(int))
+# f = sig.correlate(M_padded[1,:,:,:],W[1,:,:,:], mode='valid')
+# f1 = sig.correlate(M_padded[1,0,:,:], W[1,0,:,:], mode='valid')
+# f2 = sig.correlate(M_padded[1,1,:,:], W[1,1,:,:], mode='valid')
+# f3 = f1+f2
+# print(f)
+# print(f3)
+# print('debug')
+# X = np.array([[[1,2],[3,4]],[[2,3],[1,2]]])
+# print(X.shape)
+print(range(0,3,3))
+# for mat in M_padded:
+#     print('first matrix: ', mat)
+
+# a = np.array( [[1,2],[1,2]] )
+# b = np.array( [[3,4],[3,4]] )
+# c = []
+# for i in range(4):
+#     c.append(b)
+# c = np.concatenate(c, axis=0)
+# print(c.shape)
+

@@ -1,0 +1,11 @@
+Old_model,
+"learning_rate, 0.01",57%
+"learning_rate, 0.1",58%
+"learning_rate, 0.3",59%
+"learning_rate, 10",20%
+,
+New_model,
+"learning_rate, 0.01",60%
+"learning_rate, 0.1",61%
+"learning_rate, 0.3",60%
+,

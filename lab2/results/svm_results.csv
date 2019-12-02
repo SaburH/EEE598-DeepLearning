@@ -1,0 +1,6 @@
+Algorithm,Accuracy
+Linear with Gaussian data,0.9
+Linear with Gaussian data,0.86625
+rbf,0.97125
+sigmoid,0.865
+poly,0.905
