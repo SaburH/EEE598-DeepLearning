@@ -78,7 +78,9 @@ discriminative global descriptor.
 --------------------------------------------------
 
 Dataset download:
-Please download the datasets from this link, unzip the files and put them in the same folder "RevisedCode"
+Please download the datasets from this link, unzip the files and put them in the same folder "RevisedCode":
+https://drive.google.com/drive/folders/1t61p2f3o4XyIdPLCbbdxHR4CRSMhmTYR?usp=sharing 
+
 
 Testing our trained model:
 
